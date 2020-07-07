@@ -1,0 +1,10 @@
+slack_webhook-1.0.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+slack_webhook-1.0.3.dist-info/LICENSE.txt,sha256=akGZ5KqFxOynLeR33mDt0e0qKe8j7eN3lTWUFFGCQVQ,1068
+slack_webhook-1.0.3.dist-info/METADATA,sha256=R3UaNOnC8r6touknKKkFzkHDu4t7sYwf2_eNaw_4TvI,3620
+slack_webhook-1.0.3.dist-info/RECORD,,
+slack_webhook-1.0.3.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+slack_webhook-1.0.3.dist-info/top_level.txt,sha256=JPvjLwdOAaInhtqezubonDsfJp6ApvCMpxMit6w0Ysc,14
+slack_webhook/__init__.py,sha256=uKItRMFLGho1bO4q6izIZCri-SLv_icdeyu6gB1jmpU,46
+slack_webhook/__pycache__/__init__.cpython-37.pyc,,
+slack_webhook/__pycache__/slack_webhook.cpython-37.pyc,,
+slack_webhook/slack_webhook.py,sha256=89vbo2q-UdL6kzxp7lhqUBL3vh-Mmc-ukfJxvjQ4TZw,418
